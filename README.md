@@ -1,2 +1,0 @@
-# einstein-tensorflow
-google
